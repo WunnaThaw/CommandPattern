@@ -1,0 +1,14 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\bin\Debug\CommandPatternImpl.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\bin\Debug\CommandPatternImpl.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.csprojResolveAssemblyReference.cache
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.testForm.resources
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.csproj.GenerateResource.Cache
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\bin\Debug\CommandPatternImpl.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\bin\Debug\CommandPatternImpl.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.csprojResolveAssemblyReference.cache
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.testForm.resources
+D:\class\ITPassport\Advanced Programming & Design Patterns\Behavioral Patterns\CommandPatternImpl\CommandPatternImpl\obj\Debug\CommandPatternImpl.csproj.GenerateResource.Cache
